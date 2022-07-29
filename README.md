@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Pouria Farahani :)
 - 👀 I’m interested in Front-end coding and developing
 - 🌱 I’m currently learning Javascript
-- 📫 How to reach me : with my [instagram] (https://www.instagram.com/pouria_farahani_developer) and [linkedin] (https://www.linkedin.com/in/pouria-farahani-developer)
+- 📫 How to reach me : with my [instagram](https://www.instagram.com/pouria_farahani_developer) and [linkedin](https://www.linkedin.com/in/pouria-farahani-developer)
 
 <!--
 **Pouria-Farahani-developer/Pouria-Farahani-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
