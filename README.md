@@ -4,10 +4,6 @@
 - 📫 How to reach me : with my [instagram](https://www.instagram.com/pouria_farahani_developer) and [linkedin](https://www.linkedin.com/in/pouria-farahani-developer)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pouria&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pouria&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **Pouria-Farahani-developer/Pouria-Farahani-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
