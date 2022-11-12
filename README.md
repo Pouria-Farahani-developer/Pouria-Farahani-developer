@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me : with my [instagram](https://www.instagram.com/pouria_farahani_developer) and [linkedin](https://www.linkedin.com/in/pouria-farahani-developer)
 <a href="https://github.com/Pouria-Farahani-developer">
-<img style="text-align: center; background-color:black;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pouria-Farahani-developer" />
+<img style="width:50%; height:50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pouria-Farahani-developer" />
 </a>
 
 
