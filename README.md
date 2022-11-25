@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pouria-farahani-developer" alt="pouria-farahani-developer" /></a> </p>
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=pouria-farahani-developer" alt="pouria-farahani-developer" /> </p>
-
 - 🌱 I’m currently learning **FrontEndTopics**
 
 - 👨‍💻 All of my projects are available at [GITHUB](https://github.com/Pouria-Farahani-developer)
