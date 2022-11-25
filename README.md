@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pouria-farahani-developer&label=Profile%20views&color=0e75b6&style=flat" alt="pouria-farahani-developer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pouria-farahani-developer" alt="pouria-farahani-developer" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=pouria-farahani-developer" alt="pouria-farahani-developer" /> </p>
 
 - 🌱 I’m currently learning **FrontEndTopics**
 
