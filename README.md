@@ -26,7 +26,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pouria-farahani-developer&show_icons=true&locale=en" alt="pouria-farahani-developer" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pouria-farahani-developer&" alt="pouria-farahani-developer" /></p>
 
 
 
