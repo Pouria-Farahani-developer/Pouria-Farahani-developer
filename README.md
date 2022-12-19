@@ -2,7 +2,7 @@
 
 <!-- https://user-images.githubusercontent.com/109727844/208537237-d3e5c531-1273-4c8f-95d5-b866049d6724.gif -->
 
-<p align="center"><img width="400px" height="300px" src="https://user-images.githubusercontent.com/109727844/208537237-d3e5c531-1273-4c8f-95d5-b866049d6724.gif"/></p>
+<p align="center"><img width="500px" height="100px" src="https://user-images.githubusercontent.com/109727844/208537237-d3e5c531-1273-4c8f-95d5-b866049d6724.gif"/></p>
 
 
 <!-- <h1 align="center">Hi 👋, I'm Pouria Farahani</h1> -->
