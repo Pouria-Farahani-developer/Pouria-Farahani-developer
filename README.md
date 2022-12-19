@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pouria-farahani-developer&label=Profile%20views&color=C70039&style=flat" alt="pouria-farahani-developer" /> </p>
-<p align="center"><img width="300px" height="100px" src="https://user-images.githubusercontent.com/109727844/208537237-d3e5c531-1273-4c8f-95d5-b866049d6724.gif"/></p>
+<p align="center"><img width="300px" height="120px" src="https://user-images.githubusercontent.com/109727844/208537237-d3e5c531-1273-4c8f-95d5-b866049d6724.gif"/></p>
 <!-- <h1 align="center">Hi 👋, I'm Pouria Farahani</h1> -->
 <h3 align="center">A Passionate Frontend Developer From Iran</h3>
 
