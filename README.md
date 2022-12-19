@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pouria-farahani-developer" alt="pouria-farahani-developer" /></a> </p>
 
-![a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525](https://user-images.githubusercontent.com/109727844/208532902-bd867df1-88a8-4410-90c4-74d054fd1bc2.gif)
+<!-- ![a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525](https://user-images.githubusercontent.com/109727844/208532902-bd867df1-88a8-4410-90c4-74d054fd1bc2.gif) -->
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/109727844/208532902-bd867df1-88a8-4410-90c4-74d054fd1bc2.gif"/> </p>
 
 
 - 🌱 I’m currently learning **FrontEndTopics**
