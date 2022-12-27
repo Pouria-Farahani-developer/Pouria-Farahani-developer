@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pouria-farahani-developer&label=Profile%20views&color=C70039&style=flat" alt="pouria-farahani-developer" /> </p>
 <h1 align="center">Hi 👋, I'm Pouria Farahani</h1> 
-<h1 align="center">"Do not be afraid of programming {because it is made by humans}, and the good news is that you are also a human"</h1> 
+<h4 align="center">"Do not be afraid of programming {because it is made by humans}, and the good news is that you are also a human"</h4> 
 
 <h3 align="center">A Passionate Frontend Developer From Iran</h3>
 
