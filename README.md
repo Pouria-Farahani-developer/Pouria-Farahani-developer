@@ -1,8 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pouria-farahani-developer&label=Profile%20views&color=C70039&style=flat" alt="pouria-farahani-developer" /> </p>
 <h1 align="center">Hi 👋, I'm Pouria Farahani</h1> 
-<h4 align="center">"Do not be afraid of programming {because it is made by humans}, and the good news is that you are also a human"</h4> 
 
 <h3 align="center">A Passionate Frontend Developer From Iran</h3>
+
+<h4 align="center">"Do not be afraid of programming {because it is made by humans}, and the good news is that you are also a human"</h4> 
 
 <p align="center"><img width="400px" height="300px" src="https://user-images.githubusercontent.com/109727844/208532902-bd867df1-88a8-4410-90c4-74d054fd1bc2.gif"/>
 
