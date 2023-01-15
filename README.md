@@ -34,3 +34,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pouria-farahani-developer&show_icons=true&locale=en&layout=compact" alt="pouria-farahani-developer" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pouria-farahani-developer&show_icons=true&locale=en" alt="pouria-farahani-developer" /></p>
+
+<p>&nbsp;<img align="center" src="https://api.githubtrends.io/user/svg/Pouria-Farahani-developer/repos?time_range=one_year&group=other&theme=dark
+" alt="pouria-farahani-developer" /></p>
+
