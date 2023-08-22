@@ -22,7 +22,7 @@
 
 - 🏙  MY **3D VERSION** OF MY GITHUB IN 2022 : [Watch Now](https://honzaap.github.io/GithubCity/?name=Pouria-Farahani-developer&year=2022)
 
--**Buy coffee ☕**
+- Buy coffee ☕
 
 
 <h3 align="left">Connect with me:</h3>
