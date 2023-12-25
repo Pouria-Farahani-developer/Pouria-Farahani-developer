@@ -5,7 +5,7 @@
 <h4 align="center"> 🌃 Welcome To My Virtual City</h4>
 
 <h3 align="left">☑ MY IDEA :</h3>
-<h4 align="center">"Do not be afraid of programming { because it is made by humans }, and the good news is that you are also a human"</h4> 
+<h4 align="center">"I strongly believe that the best way to gain knowledge is by "sharing knowledge" and the best gift you can give is the "Gift of education""</h4> 
 
 <p align="center"><img width="400px" height="300px" src="https://user-images.githubusercontent.com/109727844/208532902-bd867df1-88a8-4410-90c4-74d054fd1bc2.gif"/>
 
