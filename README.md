@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pouria-farahani-developer&label=Profile%20views&color=C70039&style=flat" alt="pouria-farahani-developer" /> </p>
 <h1 align="center">Hi 👋, I'm Pouria Farahani</h1> 
 
-<h3 align="center">A Passionate Frontend Developer From Iran</h3>
+<h3 align="center">A Passionate JS Developer From Iran</h3>
 <h4 align="center"> 🌃 Welcome To My Virtual City</h4>
 
 <h3 align="left">☑ MY IDEA :</h3>
